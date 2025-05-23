@@ -1,10 +1,8 @@
 # Hello, world!
 
-"Hello, world!" projects are a common starting point for developers learning new languages or platforms, as it provides a simple demonstration of how a programming language can be written for an application.
+TestProject for Create a Dynamic WebsiteChart on ICP Blockchain
 
-This application's logic is written in [Motoko](https://internetcomputer.org/docs/motoko/main/getting-started/motoko-introduction), a programming language designed specifically for developing canisters on ICP.
-
-## Deploying from ICP Ninja
+## Data Set
 
 When viewing this project in ICP Ninja, you can deploy it directly to the mainnet for free by clicking "Deploy" in the upper right corner. Open this project in ICP Ninja:
 
